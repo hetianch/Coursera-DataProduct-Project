@@ -1,6 +1,8 @@
 name: project
 account: hetian
 server: shinyapps.io
-bundleId: 269891
+bundleId: 269904
 url: https://hetian.shinyapps.io/project
-when: 1442782778.24041
+when: 1442784536.5386
+asMultiple: FALSE
+asStatic: FALSE
